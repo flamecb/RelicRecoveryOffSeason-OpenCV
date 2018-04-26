@@ -59,8 +59,6 @@ public class Camera extends AppCompatActivity implements CvCameraViewListener2 {
         Log.i(TAG, "Instantiated new " + this.getClass());
     }
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Log.i(TAG, "called onCreate");

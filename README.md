@@ -19,7 +19,7 @@ This GitHub repository contains the source code used to build an Android app to 
 
 
 ### Experimentation
-    Building of 
+    Building of
 
 **************************************************************************************
 # Release Information
